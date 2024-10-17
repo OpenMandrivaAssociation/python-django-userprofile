@@ -9,7 +9,7 @@ Release: %{release}
 Summary:        A user private zone/profile management application
 Group:          Development/Python
 License:        BSD
-URL:            http://transifex.org
+URL:            https://transifex.org
 Source:         userprofile-%{version}-r422-correct-validation.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:      noarch
